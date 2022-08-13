@@ -1,2 +1,4 @@
-# MacOS
-An html port of macos
+# MacOS-Login-Screen
+This is replica of MacOS login screen using HTML, CSS and Javascript
+
+![Screenshot of the app](https://i.imgur.com/jBGjndl.png)
